@@ -9,8 +9,6 @@ AI FAQ Assistant using RAG is a Generative AI application that enables users to 
 this is how output lookslike
 <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/010843dd-59f4-4dc7-af85-3a146d5b8b9a" />
 
-### GitHub README Description
-
 # 🤖 FAQ Bot using Google Gemini & RAG
 
 ## 📌 Overview
